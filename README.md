@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **eddygarcas/eddygarcas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <center>
-<h1>Hi 👋 there!!! </h1>
+<h4>Hi 👋 there!!! </h4>
 <p> 
 <img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" /> <img src='https://img.shields.io/badge/Retro-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> <img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Made by Mayur Panchal'/>
 <img src='https://img.shields.io/github/issues/eddygarcas/eddygarcas' alt='Total issues'/>
