@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <center>
 <h1>Hi 👋 there!!! </h1>
 <p> 
-<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" /> <img src='https://img.shields.io/badge/Retro-%F0%9F%92%99-brightgreen' alt='Open Source is Love'> <img src='https://img.shields.io/badge/Made%20by-Mayur%20Panchal-important' alt='Made by Mayur Panchal'/>
-<img src='https://img.shields.io/github/issues/immayurpanchal/immayurpanchal' alt='Total issues'/>
+<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" /> <img src='https://img.shields.io/badge/Retro-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> <img src='https://img.shields.io/badge/Made%20by-Mayur%20Panchal-important' alt='Made by Mayur Panchal'/>
+<img src='https://img.shields.io/github/issues/eddygarcas/eddygarcas' alt='Total issues'/>
 </p>
 
 <p align='center' class='intro' style='margin: 50px 100px;'>I'm <b>Mayur Panchal</b> 🙋. My Personal area of Interest is Web Development 💻. A Tech Enthusiast as well as a person who loves to teach his fellow friends about the new trending technologies. My hobbies are reading lots of Book 📚 , experimenting with my mobile using custom ROMs and coding 👨‍💻.
