@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <center>
 <h1>Hi 👋 there!!! </h1>
 <p> 
-<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" /> <img src='https://img.shields.io/badge/Retro-Computer-%F0%9F%92%99-brightgreen' alt='Open Source is Love'> <img src='https://img.shields.io/badge/Made%20by-Mayur%20Panchal-important' alt='Made by Mayur Panchal'/>
+<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" /> <img src='https://img.shields.io/badge/Retro-%F0%9F%92%99-brightgreen' alt='Open Source is Love'> <img src='https://img.shields.io/badge/Made%20by-Mayur%20Panchal-important' alt='Made by Mayur Panchal'/>
 <img src='https://img.shields.io/github/issues/immayurpanchal/immayurpanchal' alt='Total issues'/>
 </p>
 
