@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 
 <p align='left' class='intro' style='margin: 50px 100px;'>
  Hi! I'm Eduard Garcia, currently working at Rzilient.<br>
- 📢 Punk<br>
+ 📢 Punk Rock<br>
  🏄‍♂️ Surfing as much as I can<br>
  💎 Coding with React/Rails/Go/C++<br>
- 💾 Retro Computing Lover<br>
+ 💾 Retro Computing Lover, proud owner of a =C64= as well as Amiga 1200<br>
  🏴‍☠️ Pirate soul<br>
  📫 You can reach me at <a href="https://twitter.com/egarciacastello">Twitter</a>
  </p>
