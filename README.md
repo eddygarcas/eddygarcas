@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" />
 <img src='https://img.shields.io/badge/Retro%20Computer-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> 
 <img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Rzilient'/>
-<img src='https://img.shields.io/github/issues/eddygarcas/eddygarcas' alt='Total issues'/>
 </p>
 
 <p align='left' class='intro' style='margin: 50px 100px;'>
