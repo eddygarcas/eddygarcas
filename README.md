@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align='left' class='intro' style='margin: 50px 100px;'>
- Hi! I'm Eduard Garcia, currently working at Rzilient.<br>
+ Hi! I'm Eduard Garcia,<br>
  📢 Punk Rock<br>
  🏄‍♂️ Surfing as much as I can<br>
  💎 Coding with React/Rails/Go/C++<br>
