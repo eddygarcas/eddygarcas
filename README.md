@@ -16,12 +16,19 @@ Here are some ideas to get you started:
 <center>
 <h2>Hi 👋 there!!! </h2>
 <p> 
-<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" /> <img src='https://img.shields.io/badge/Retro-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> <img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Made by Mayur Panchal'/>
+<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" />
+<img src='https://img.shields.io/badge/Retro-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> 
+<img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Made by Mayur Panchal'/>
 <img src='https://img.shields.io/github/issues/eddygarcas/eddygarcas' alt='Total issues'/>
 </p>
 
-<p align='center' class='intro' style='margin: 50px 100px;'>Hi! I'm Eduard Garcia 📢 Punk / 🏄‍♂️ SurferRosa / 💎 Coder / 💾 Retro Computing Lover / @agile_vortrics @rzilient_club / 🏴‍☠️
- 
+<p align='center' class='intro' style='margin: 50px 100px;'>
+ Hi! I'm Eduard Garcia, currently working at Rzilient.
+ 📢 Punk
+ 🏄‍♂️ Surfing as much as I can
+ 💎 Coding with React/Rails/Go/C++
+ 💾 Retro Computing Lover
+ 🏴‍☠️ Pirate soul
 </p>
 
 <p align="center"> 
