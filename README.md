@@ -34,3 +34,8 @@ Here are some ideas to get you started:
 <p align="center"> 
 <img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&bg_color=#000&theme=cobalt' alt='eddygarcas github stats' />
 </p>
+
+<div align="center">
+  <a href="https://twitter.com/egarciacastello"><img width='auto' height='20px' src='https://ik.imagekit.io/egarciacastello/Portfolio/twitter-seeklogo.com_n76COVB9n6.svg' /></a>
+  <a href="https://github.com/eddygarcas"><img height='20px' width='auto' src='https://ik.imagekit.io/immayurpanchal/Portfolio/github-1_ma2qvGuCN.svg' /></a>
+</div>
