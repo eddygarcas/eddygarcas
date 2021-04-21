@@ -32,6 +32,6 @@ Here are some ideas to get you started:
  </p>
 
 <p align="center"> 
-<img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=synthwave' alt='eddygarcas github stats' height=300 width=280/>
+<img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=synthwave' alt='eddygarcas github stats' height=250/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=synthwave&show_icons=true' alt='eddygarcas github top languages' />
 </p>
