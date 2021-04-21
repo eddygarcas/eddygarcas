@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 
 <p align="center"> 
 <img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=synthwave' alt='eddygarcas github stats' />
- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=murewaashiru&theme=algolia&show_icons=true' alt='eddygarcas github top languages' />
+ <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=synthwave&show_icons=true' alt='eddygarcas github top languages' />
 </p>
