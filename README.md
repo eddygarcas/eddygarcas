@@ -33,5 +33,5 @@ Here are some ideas to get you started:
  </p>
 
 <p align="center"> 
-<img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=dracula' alt='eddygarcas github stats' />
+<img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=synthwave' alt='eddygarcas github stats' />
 </p>
