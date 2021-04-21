@@ -29,8 +29,8 @@ Here are some ideas to get you started:
  💎 Coding with React/Rails/Go/C++<br>
  💾 Retro Computing Lover<br>
  🏴‍☠️ Pirate soul<br>
- 📫 You can reach me at @egarciacastello
-</p>
+ 📫 You can reach me at [Twitter](https://twitter.com/egarciacastello)
+ </p>
 
 <p align="center"> 
 <img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&bg_color=#000&theme=cobalt' alt='eddygarcas github stats' />
