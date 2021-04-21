@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center' class='intro' style='margin: 50px 100px;'>
- Hi! I'm Eduard Garcia, currently working at Rzilient.
- 📢 Punk
- 🏄‍♂️ Surfing as much as I can
- 💎 Coding with React/Rails/Go/C++
- 💾 Retro Computing Lover
- 🏴‍☠️ Pirate soul
+ Hi! I'm Eduard Garcia, currently working at Rzilient.<br>
+ 📢 Punk<br>
+ 🏄‍♂️ Surfing as much as I can<br>
+ 💎 Coding with React/Rails/Go/C++<br>
+ 💾 Retro Computing Lover<br>
+ 🏴‍☠️ Pirate soul<br>
 </p>
 
 <p align="center"> 
