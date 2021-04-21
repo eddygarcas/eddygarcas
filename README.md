@@ -29,6 +29,7 @@ Here are some ideas to get you started:
  💎 Coding with React/Rails/Go/C++<br>
  💾 Retro Computing Lover<br>
  🏴‍☠️ Pirate soul<br>
+ 📫 You can reach me at @egarciacastello
 </p>
 
 <p align="center"> 
