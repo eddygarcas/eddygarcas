@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  Hi! I'm Eduard Garcia,<br>
  📢 Punk Rock<br>
  🏄‍♂️ Surfing as much as I can<br>
- 💎 Coding with React/Rails/Go/C++<br>
+ 💎 Coding with React/Ruby/Go/C++/Rust<br>
  💾 Retro Computing Lover, proud owner of a =C64= as well as Amiga 1200<br>
  🏴‍☠️ Pirate soul<br>
  📫 You can reach me at <a href="https://twitter.com/egarciacastello">Twitter</a>
