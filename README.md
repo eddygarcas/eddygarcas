@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Rzilient'/>
 </p>
 
-<table>
+<table border=0>
   <tr>
    <td>
      <p align='left' class='intro' style='margin: 50px 100px;'>
