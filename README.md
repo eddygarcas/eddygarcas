@@ -31,16 +31,6 @@ Here are some ideas to get you started:
  📫 You can reach me at <a href="https://twitter.com/egarciacastello">Twitter</a>
  </p>
  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eddygarcas&show_icons=true&theme=transparent&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eddygarcas&show_icons=true&theme=transparent&rank_icon=github"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=eddygarcas&show_icons=true&theme=transparent&rank_icon=github" />
-</picture>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas)](https://github.com/anuraghazra/github-readme-stats)
 
 
