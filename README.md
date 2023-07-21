@@ -36,7 +36,12 @@ Here are some ideas to get you started:
     
    </td>
    <td>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+     <picture>
+       <source 
+          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=8&layout=compact"
+    media="(prefers-color-scheme: dark)"/>
+     </picture>
+
    </td>
   </tr>
   </table>
