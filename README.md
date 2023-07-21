@@ -32,6 +32,7 @@ Here are some ideas to get you started:
  </p>
 
 ![Eduard's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&show_owner=true&theme=transparent)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center"> 
 <img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=synthwave' alt='eddygarcas github stats' height=220/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=synthwave&show_icons=true' alt='eddygarcas github top languages' height=220/>
