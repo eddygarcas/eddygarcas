@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <table border=0>
-  <tr>
+  <tr border=0>
    <td>
      <p align='left' class='intro' style='margin: 50px 100px;'>
      Hi! I'm Eduard Garcia,<br>
