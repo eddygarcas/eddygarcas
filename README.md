@@ -31,7 +31,7 @@ Here are some ideas to get you started:
  📫 You can reach me at <a href="https://twitter.com/egarciacastello">Twitter</a>
  </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddygarcas)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eddygarcas&show=reviews)
 <p align="center"> 
 <img src='https://github-readme-stats.vercel.app/api?username=eddygarcas&count_private=true&show_icons=true&theme=synthwave' alt='eddygarcas github stats' height=220/>
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=synthwave&show_icons=true' alt='eddygarcas github top languages' height=220/>
