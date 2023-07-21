@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 <img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Rzilient'/>
 </p>
 
+<table>
+  <tr>
+   <td>
 <p align='left' class='intro' style='margin: 50px 100px;'>
  Hi! I'm Eduard Garcia,<br>
  📢 Punk Rock<br>
@@ -30,7 +33,14 @@ Here are some ideas to get you started:
  🏴‍☠️ Pirate soul<br>
  📫 You can reach me at <a href="https://twitter.com/egarciacastello">Twitter</a>
  </p>
+    
+   </td>
+   <td>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)    
+   </td>
+  </tr>
+  </table>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
