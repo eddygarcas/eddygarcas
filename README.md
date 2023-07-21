@@ -33,7 +33,7 @@ Here are some ideas to get you started:
  
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=eddygarcas&show_icons=true&theme=transparent"
+    srcset="https://github-readme-stats.vercel.app/api?username=eddygarcas&show_icons=true&theme=transparent&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
