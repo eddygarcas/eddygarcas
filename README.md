@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <details>
 <summary>📝 Summary</summary>
 
-I am an experienced and passionate Chief Technology Officer (CTO), Software craftsmanship is in my blood, dedicated to providing innovative digital solutions. With a background in Agile coaching, I excel in leading high-performing teams and fostering continuous improvement and innovation. At Rzilient, I drive the company's technical vision and strategy, helping businesses leverage digital transformation to unlock their full potential.
+I am an experienced and passionate Chief Technology Officer (CTO), dedicated to providing innovative digital solutions. Software craftsmanship is in my blood, with a background in Agile coaching, I excel in leading high-performing teams and fostering continuous improvement and innovation. At Rzilient, I drive the company's technical vision and strategy, helping businesses leverage digital transformation to unlock their full potential.
 
 </details>
 
