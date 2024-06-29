@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p> 
 <img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" />
 <img src='https://img.shields.io/badge/Retro%20Computer-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> 
-<img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='Rzilient'/>
+<img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='rzilient'/>
 </p>
 
 <table border=0>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
      💎 Coding with React/Ruby/Go/C++/Rust<br>
      💾 Retro Computing Lover, proud owner of a =C64= as well as Amiga 1200<br>
      🏴‍☠️ Pirate soul<br>
-     📫 You can reach me at <a href="https://twitter.com/egarciacastello">Twitter</a>
+     📫 You can reach me at <a href="https://x.com/elpatroned">Twitter</a>
      </p>
    </td>
    <td>
@@ -43,30 +43,46 @@ Here are some ideas to get you started:
   </tr>
 </table>
  
-# Eduard Garcia Castello
+# More about me...
 
-## 📞 Contact Information
+<details>
+<summary>📞 Contact Information</summary>
+
 - Email: [edugarcas@gmail.com](mailto:edugarcas@gmail.com)
 - LinkedIn: [Eduard Garcia Castello](https://www.linkedin.com/in/eduard-garcia-castello)
-- GitHub: [eddygarcas](https://github.com/eddygarcas)
-- Company: [Rzilient](https://www.rzilient.club)
+- Currently working at [rzilient](https://www.rzilient.club)
 
-## 📝 Summary
-I am an experienced and passionate Chief Technology Officer (CTO) at Rzilient, dedicated to providing innovative digital solutions. With a background in Agile coaching, I excel in leading high-performing teams and fostering continuous improvement and innovation. At Rzilient, I drive the company's technical vision and strategy, helping businesses leverage digital transformation to unlock their full potential.
+</details>
 
-## 🛠️ Skills
-- Software development
+<details>
+<summary>📝 Summary</summary>
+
+I am an experienced and passionate Chief Technology Officer (CTO), software craftmanship is in my blood, dedicated to providing innovative digital solutions. With a background in Agile coaching, I excel in leading high-performing teams and fostering continuous improvement and innovation. At Rzilient, I drive the company's technical vision and strategy, helping businesses leverage digital transformation to unlock their full potential.
+
+</details>
+
+<details>
+<summary>🛠️ Skills</summary>
+
+- Software Development
 - Leadership
 - Team Management
 
-## 🌐 Languages
+</details>
+
+<details>
+<summary>🌐 Languages</summary>
+
 - Catalan: Native or Bilingual
 - English: Full Professional
 - Spanish: Native or Bilingual
 
-## 💼 Experience
+</details>
 
-### Rzilient
+<details>
+<summary>💼 Experience</summary>
+
+### ![Rzilient](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png) Rzilient
 **Chief Technology Officer**  
 *January 2021 - Present (3 years 6 months)*  
 Barcelona, Catalonia, Spain
@@ -81,7 +97,7 @@ Barcelona, Catalonia, Spain
 - Aligned technology roadmap with business objectives and market trends.
 - Built strong relationships with key partners and stakeholders.
 
-### vpTech
+### ![vpTech](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tech_Logo.svg/1024px-Tech_Logo.svg.png) vpTech
 **Engineering Manager**  
 *March 2020 - January 2021 (11 months)*  
 Barcelona Area, Spain
@@ -91,7 +107,7 @@ Barcelona Area, Spain
 - Implemented React/Go/Kubernetes stack.
 - Coached teams to use XP practices to speed up their learning curve.
 
-### Adevinta
+### ![Adevinta](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Adevinta_Logo.svg/1024px-Adevinta_Logo.svg.png) Adevinta
 **Agile Coach**  
 *March 2019 - March 2020 (1 year 1 month)*  
 Barcelona, Catalonia, Spain
@@ -105,14 +121,14 @@ Barcelona, Catalonia, Spain
 - Improved Adevinta flagship marketplace deliveries.
 - Implemented agile practices and techniques, boosting delivery process by 20%.
 
-### Privalia
+### ![Privalia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Privalia_Logo.svg/1024px-Privalia_Logo.svg.png) Privalia
 **Engineering Manager**  
 *January 2016 - January 2017 (1 year 1 month)*  
 Barcelona Area, Spain
 
 - Transformed Privalia product development into a high performing organisation.
 
-### Sky
+### ![Sky](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sky_logo.svg/1024px-Sky_logo.svg.png) Sky
 **Engineering Manager**  
 *June 2012 - January 2016 (3 years 8 months)*  
 Barcelona Area, Spain
@@ -126,7 +142,7 @@ Barcelona Area, Spain
 **Lead Java Coder**  
 *August 2008 - May 2011 (2 years 10 months)*
 
-### TENEA TECNOLOGIAS
+### ![TENEA TECNOLOGIAS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tenea_Tecnologias_logo.svg/1024px-Tenea_Tecnologias_logo.svg.png) TENEA TECNOLOGIAS
 **C++ Coder @ Hewlett-Packard**  
 *2007 - July 2008 (1 year)*  
 Barcelona Area, Spain
@@ -139,9 +155,15 @@ Barcelona Area, Spain
 *2003 - 2007 (4 years)*  
 Sant Cugat del Valles
 
-## 🎓 Education
+</details>
+
+<details>
+<summary>🎓 Education</summary>
+
 **Universitat Oberta de Catalunya**  
 Bachelor's degree, Computer Software Engineering (2005)
 
 **Universitat de Lleida**  
 Associate/Foundation Degree, Computer Science (1997 - 2000)
+
+</details>
