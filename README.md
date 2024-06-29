@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
  
-# More about me...
+<h2>More about me... </h2>
 
 <details>
 <summary>📞 Contact Information</summary>
