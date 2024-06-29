@@ -114,8 +114,6 @@ Barcelona Area, Spain
 *March 2019 - March 2020 (1 year 1 month)*  
 Barcelona, Catalonia, Spain
 
-- Supported teams of an internal PaaS with AWS, Kubernetes, Java, Vuejs stack.
-
 **Agile Team Coach**  
 *January 2017 - March 2019 (2 years 3 months)*  
 Barcelona, Catalonia, Spain
@@ -127,8 +125,6 @@ Barcelona, Catalonia, Spain
 **Engineering Manager**  
 *January 2016 - January 2017 (1 year 1 month)*  
 Barcelona Area, Spain
-
-- Transformed Privalia product development into a high performing organisation.
 
 ### Sky
 **Engineering Manager**  
