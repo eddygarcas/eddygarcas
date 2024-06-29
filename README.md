@@ -84,7 +84,7 @@ As a CTO, I am dedicated to nurturing a culture of collaboration, curiosity, and
 <details>
 <summary>💼 Experience</summary>
 
-### ![Rzilient](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png) Rzilient
+### Rzilient
 **Chief Technology Officer**  
 *January 2021 - Present (3 years 6 months)*  
 Barcelona, Catalonia, Spain
@@ -99,7 +99,7 @@ Barcelona, Catalonia, Spain
 - Aligned technology roadmap with business objectives and market trends.
 - Built strong relationships with key partners and stakeholders.
 
-### ![vpTech](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tech_Logo.svg/1024px-Tech_Logo.svg.png) vpTech
+### vpTech
 **Engineering Manager**  
 *March 2020 - January 2021 (11 months)*  
 Barcelona Area, Spain
@@ -109,7 +109,7 @@ Barcelona Area, Spain
 - Implemented React/Go/Kubernetes stack.
 - Coached teams to use XP practices to speed up their learning curve.
 
-### ![Adevinta](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Adevinta_Logo.svg/1024px-Adevinta_Logo.svg.png) Adevinta
+### Adevinta
 **Agile Coach**  
 *March 2019 - March 2020 (1 year 1 month)*  
 Barcelona, Catalonia, Spain
@@ -123,14 +123,14 @@ Barcelona, Catalonia, Spain
 - Improved Adevinta flagship marketplace deliveries.
 - Implemented agile practices and techniques, boosting delivery process by 20%.
 
-### ![Privalia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Privalia_Logo.svg/1024px-Privalia_Logo.svg.png) Privalia
+### Privalia
 **Engineering Manager**  
 *January 2016 - January 2017 (1 year 1 month)*  
 Barcelona Area, Spain
 
 - Transformed Privalia product development into a high performing organisation.
 
-### ![Sky](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sky_logo.svg/1024px-Sky_logo.svg.png) Sky
+### Sky
 **Engineering Manager**  
 *June 2012 - January 2016 (3 years 8 months)*  
 Barcelona Area, Spain
@@ -144,7 +144,7 @@ Barcelona Area, Spain
 **Lead Java Coder**  
 *August 2008 - May 2011 (2 years 10 months)*
 
-### ![TENEA TECNOLOGIAS](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Tenea_Tecnologias_logo.svg/1024px-Tenea_Tecnologias_logo.svg.png) TENEA TECNOLOGIAS
+### TENEA TECNOLOGIAS
 **C++ Coder @ Hewlett-Packard**  
 *2007 - July 2008 (1 year)*  
 Barcelona Area, Spain
