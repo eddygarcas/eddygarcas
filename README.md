@@ -56,8 +56,10 @@ Here are some ideas to get you started:
 
 <details>
 <summary>📝 Summary</summary>
-
+  
 I am an experienced and passionate Chief Technology Officer (CTO) dedicated to providing innovative digital solutions. With software craftsmanship in my blood and a background in Agile coaching, I excel in leading high-performing teams and fostering continuous improvement and innovation. At rzilient, I drive the company's technical vision and strategy, helping businesses leverage digital transformation to unlock their full potential.
+
+As a CTO, I am dedicated to nurturing a culture of collaboration, curiosity, and innovation. My mission is to create an environment where technology drives growth and enables businesses to reach new heights.
 
 </details>
 
