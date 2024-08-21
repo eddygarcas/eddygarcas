@@ -159,9 +159,7 @@ Sant Cugat del Valles
 <summary>🎓 Education</summary>
 
 **Universitat Oberta de Catalunya**  
-Bachelor's degree, Computer Software Engineering (2005)
-
-**Universitat de Lleida**  
+Bachelor's degree, Computer Software Engineering (2005) 
 Associate/Foundation Degree, Computer Science (1997 - 2000)
 
 </details>
