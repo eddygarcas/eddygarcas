@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 <details>
 <summary>📞 Contact Information</summary>
 
-- Email: [edugarcas@gmail.com](mailto:edugarcas@gmail.com)
+- Email: [eduard.castello@proton.me](mailto:eduard.castello@proton.me)
 - LinkedIn: [Eduard Garcia Castello](https://www.linkedin.com/in/eduard-garcia-castello)
 - Currently working at [rzilient](https://www.rzilient.club)
 
