@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <center>
 <h2>Hi 👋 there!!! </h2>
 <p> 
-<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcs" />
+<img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcas" />
 <img src='https://img.shields.io/badge/Retro%20Computer-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> 
 <img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='rzilient'/>
 </p>
@@ -25,13 +25,12 @@ Here are some ideas to get you started:
   <tr border=0>
    <td border=0>
      <p align='left' class='intro' style='margin: 50px 100px;'>
-     Hi! I'm Eduard Garcia,<br>
+     Hi! I'm Eduard G.Castello,<br>
      📢 Punk Rock<br>
      🏄‍♂️ Surfing as much as I can<br>
-     💎 Coding with React/Ruby/Go/C++/Rust<br>
+     💎 Coding with React/Rails/Ruby/Go/C++<br>
      💾 Retro Computing Lover, proud owner of a =C64= as well as Amiga 1200<br>
-     🏴‍☠️ Pirate soul<br>
-     📫 You can reach me at <a href="https://x.com/elpatroned">Twitter</a>
+     📫 You can reach me at <a href="https://bsky.app/profile/elpatroned.bsky.social">BlueSky</a>
      </p>
    </td>
    <td>
@@ -86,7 +85,7 @@ As a CTO, I am dedicated to nurturing a culture of collaboration, curiosity, and
 
 ### Rzilient
 **Chief Technology Officer**  
-*January 2021 - Present (3 years 6 months)*  
+*January 2021 - Present*  
 Barcelona, Catalonia, Spain
 
 - Implemented AI solutions to enhance customer satisfaction.
