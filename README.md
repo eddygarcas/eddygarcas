@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas)](https://github.com/anuraghazra/github-readme-stats)
+      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas)](https://github.com/eddygarcas/github-readme-stats)
     </td>
   </tr>
 </table>
