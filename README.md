@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <tr>
     <td>
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas  media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas"  media="(prefers-color-scheme: dark)"/>
         <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas"/>
       </picture>
     </td>
