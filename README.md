@@ -40,14 +40,6 @@ Here are some ideas to get you started:
      </picture>
    </td>
   </tr>
-  <tr>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas"  media="(prefers-color-scheme: dark)"/>
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas"/>
-      </picture>
-    </td>
-  </tr>
 </table>
  
 <h2>More about me... </h2>
