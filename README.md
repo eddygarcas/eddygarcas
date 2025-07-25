@@ -42,7 +42,10 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>
-      [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas)](https://github.com/eddygarcas/github-readme-stats)
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas  media="(prefers-color-scheme: dark)"/>
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eddygarcas"/>
+      </picture>
     </td>
   </tr>
 </table>
