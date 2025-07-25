@@ -35,8 +35,8 @@ Here are some ideas to get you started:
    </td>
    <td>
      <picture>
-       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=8&layout=compact" media="(prefers-color-scheme: dark)"/>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=10&layout=compact" />
+       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=20&layout=compact&hide=CSS" media="(prefers-color-scheme: dark)"/>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=20&layout=compact&hide=CSS" />
      </picture>
    </td>
   </tr>
