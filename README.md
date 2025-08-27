@@ -35,7 +35,7 @@ Here are some ideas to get you started:
    </td>
    <td>
      <picture>
-       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&layout=compact&hide=CSS,C++,html,shell,scss&langs_count=15" media="(prefers-color-scheme: dark)"/>
+       <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&layout=compact&&langs_count=15&hide=CSS,C++,html,shell,scss" media="(prefers-color-scheme: dark)"/>
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&langs_count=14&layout=compact&hide=css,html,coffeescript,scss" />
      </picture>
    </td>
