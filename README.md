@@ -28,7 +28,7 @@ Here are some ideas to get you started:
      Hi! I'm Eduard G.Castello,<br>
      📢 Punk Rock<br>
      🏄‍♂️ Surfing as much as I can<br>
-     💎 Coding with React/Rails/Ruby/Go/C++<br>
+     💎 Coding with React/Rails/Ruby/Go/C++/Zig<br>
      💾 Retro Computing Lover, proud owner of a =C64= as well as Amiga 1200<br>
      📫 You can reach me at <a href="https://bsky.app/profile/elpatroned.bsky.social">BlueSky</a>
      </p>
