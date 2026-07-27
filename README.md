@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p> 
 <img src="https://komarev.com/ghpvc/?username=eddygarcas" alt="eddygarcas" />
 <img src='https://img.shields.io/badge/Retro%20Computer-%F0%9F%92%99-brightgreen' alt='Retro Computer Lover'> 
-<img src='https://img.shields.io/badge/Works%20at-%20Rzilient-important' alt='rzilient'/>
+<img src='https://img.shields.io/badge/Works%20at-%20_rzilient-important' alt='_rzilient'/>
 </p>
 
 <table border=0>
