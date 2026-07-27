@@ -33,13 +33,7 @@ Here are some ideas to get you started:
      📫 You can reach me at <a href="https://bsky.app/profile/elpatroned.bsky.social">BlueSky</a>
      </p>
    </td>
-    <td>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&theme=dark&layout=donut&langs_count=10&hide=css,c,c%2B%2B,html,shell,scss" media="(prefers-color-scheme: dark)" />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eddygarcas&layout=donut&langs_count=10&hide=css,c,c%2B%2B,html,shell,scss" />
-  </picture>
+    <td><img src="./langs.svg" alt="Most used languages" width="480" />
 </td>
   </tr>
 </table>
