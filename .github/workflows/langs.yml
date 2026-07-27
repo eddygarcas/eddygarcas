@@ -2,8 +2,8 @@ name: Update language donut
 
 on:
   schedule:
-    - cron: "0 6 * * *" # daily at 06:00 UTC
-  workflow_dispatch: # manual "Run workflow" button
+    - cron: "0 6 * * *"      # daily at 06:00 UTC
+  workflow_dispatch:          # manual "Run workflow" button
   push:
     branches: [main]
     paths:
@@ -38,10 +38,10 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if ! git diff --quiet -- langs.svg; then
-            git add langs.svg
+          git add langs.svg
+          if git diff --cached --quiet; then
+            echo "No change in langs.svg"
+          else
             git commit -m "chore: refresh language donut"
             git push
-          else
-            echo "No change in langs.svg"
           fi
