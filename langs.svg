@@ -14,67 +14,67 @@
     <circle class="ring-bg" cx="130" cy="130" r="82" fill="none" stroke-width="40"/>
     <circle cx="130" cy="130" r="82" fill="none"
       stroke="#ec915c" stroke-width="40"
-      stroke-dasharray="259.5320114699968 255.68918371872923" stroke-dashoffset="0.00"/>
+      stroke-dasharray="255.41838673948573 259.8028084492403" stroke-dashoffset="0.00"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#701516" stroke-width="40"
-      stroke-dasharray="125.15288046485468 390.06831472387137" stroke-dashoffset="-260.13"/>
+      stroke-dasharray="123.16427415650382 392.0569210322222" stroke-dashoffset="-256.02"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#f1e05a" stroke-width="40"
-      stroke-dasharray="64.08510339587276 451.1360917928533" stroke-dashoffset="-385.88"/>
+      stroke-dasharray="66.52502175772185 448.6961734310042" stroke-dashoffset="-379.78"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#00ADD8" stroke-width="40"
-      stroke-dasharray="25.71043941604412 489.51075577268193" stroke-dashoffset="-450.57"/>
+      stroke-dasharray="25.294376534583122 489.9268186541429" stroke-dashoffset="-446.91"/>
+<circle cx="130" cy="130" r="82" fill="none"
+      stroke="#44a51c" stroke-width="40"
+      stroke-dasharray="11.932897600924914 503.28829758780114" stroke-dashoffset="-472.80"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#244776" stroke-width="40"
-      stroke-dasharray="11.032536768602856 504.18865842012315" stroke-dashoffset="-476.88"/>
+      stroke-dasharray="10.848584433557685 504.37261075516835" stroke-dashoffset="-485.33"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#000080" stroke-width="40"
-      stroke-dasharray="9.773188560357115 505.4480066283689" stroke-dashoffset="-488.51"/>
+      stroke-dasharray="9.60915105972424 505.6120441290018" stroke-dashoffset="-496.78"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#41b883" stroke-width="40"
-      stroke-dasharray="7.76071596123691 507.46047922748915" stroke-dashoffset="-498.89"/>
-<circle cx="130" cy="130" r="82" fill="none"
-      stroke="#b07219" stroke-width="40"
-      stroke-dasharray="7.374319151760769 507.8468760369653" stroke-dashoffset="-507.25"/>
+      stroke-dasharray="7.628502906224686 507.59269228250133" stroke-dashoffset="-506.99"/>
   </g>
   <g>
       <rect x="250" y="23" width="13" height="13" rx="3" fill="#ec915c"/>
       <text x="272" y="34" class="name">Zig</text>
-      <text x="460" y="34" class="pct" text-anchor="end">50.5%</text>
+      <text x="460" y="34" class="pct" text-anchor="end">49.7%</text>
     </g>
 <g>
       <rect x="250" y="49" width="13" height="13" rx="3" fill="#701516"/>
       <text x="272" y="60" class="name">Ruby</text>
-      <text x="460" y="60" class="pct" text-anchor="end">24.4%</text>
+      <text x="460" y="60" class="pct" text-anchor="end">24.0%</text>
     </g>
 <g>
       <rect x="250" y="75" width="13" height="13" rx="3" fill="#f1e05a"/>
       <text x="272" y="86" class="name">JavaScript</text>
-      <text x="460" y="86" class="pct" text-anchor="end">12.6%</text>
+      <text x="460" y="86" class="pct" text-anchor="end">13.0%</text>
     </g>
 <g>
       <rect x="250" y="101" width="13" height="13" rx="3" fill="#00ADD8"/>
       <text x="272" y="112" class="name">Go</text>
-      <text x="460" y="112" class="pct" text-anchor="end">5.1%</text>
+      <text x="460" y="112" class="pct" text-anchor="end">5.0%</text>
     </g>
 <g>
-      <rect x="250" y="127" width="13" height="13" rx="3" fill="#244776"/>
-      <text x="272" y="138" class="name">CoffeeScript</text>
-      <text x="460" y="138" class="pct" text-anchor="end">2.3%</text>
+      <rect x="250" y="127" width="13" height="13" rx="3" fill="#44a51c"/>
+      <text x="272" y="138" class="name">QML</text>
+      <text x="460" y="138" class="pct" text-anchor="end">2.4%</text>
     </g>
 <g>
-      <rect x="250" y="153" width="13" height="13" rx="3" fill="#000080"/>
-      <text x="272" y="164" class="name">Lua</text>
-      <text x="460" y="164" class="pct" text-anchor="end">2.0%</text>
+      <rect x="250" y="153" width="13" height="13" rx="3" fill="#244776"/>
+      <text x="272" y="164" class="name">CoffeeScript</text>
+      <text x="460" y="164" class="pct" text-anchor="end">2.2%</text>
     </g>
 <g>
-      <rect x="250" y="179" width="13" height="13" rx="3" fill="#41b883"/>
-      <text x="272" y="190" class="name">Vue</text>
-      <text x="460" y="190" class="pct" text-anchor="end">1.6%</text>
+      <rect x="250" y="179" width="13" height="13" rx="3" fill="#000080"/>
+      <text x="272" y="190" class="name">Lua</text>
+      <text x="460" y="190" class="pct" text-anchor="end">2.0%</text>
     </g>
 <g>
-      <rect x="250" y="205" width="13" height="13" rx="3" fill="#b07219"/>
-      <text x="272" y="216" class="name">Java</text>
-      <text x="460" y="216" class="pct" text-anchor="end">1.5%</text>
+      <rect x="250" y="205" width="13" height="13" rx="3" fill="#41b883"/>
+      <text x="272" y="216" class="name">Vue</text>
+      <text x="460" y="216" class="pct" text-anchor="end">1.6%</text>
     </g>
 </svg>
