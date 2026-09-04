@@ -14,28 +14,28 @@
     <circle class="ring-bg" cx="130" cy="130" r="82" fill="none" stroke-width="40"/>
     <circle cx="130" cy="130" r="82" fill="none"
       stroke="#ec915c" stroke-width="40"
-      stroke-dasharray="232.23588636106135 282.98530882766465" stroke-dashoffset="0.00"/>
+      stroke-dasharray="232.3860977705667 282.8350974181593" stroke-dashoffset="0.00"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#701516" stroke-width="40"
-      stroke-dasharray="113.97807348529602 401.24312170343" stroke-dashoffset="-232.84"/>
+      stroke-dasharray="111.76002105956323 403.4611741291628" stroke-dashoffset="-232.99"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#f1e05a" stroke-width="40"
-      stroke-dasharray="64.02952033126567 451.1916748574604" stroke-dashoffset="-347.41"/>
+      stroke-dasharray="62.77839382874937 452.44280135997667" stroke-dashoffset="-345.35"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#44a51c" stroke-width="40"
-      stroke-dasharray="45.93845283504399 469.282742353682" stroke-dashoffset="-412.04"/>
+      stroke-dasharray="50.35386794659389 464.86732724213215" stroke-dashoffset="-408.72"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#00ADD8" stroke-width="40"
-      stroke-dasharray="22.949637152943023 492.271558035783" stroke-dashoffset="-458.58"/>
+      stroke-dasharray="22.49375298398014 492.7274422047459" stroke-dashoffset="-459.68"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#3572A5" stroke-width="40"
-      stroke-dasharray="12.793000478399327 502.4281947103267" stroke-dashoffset="-482.13"/>
+      stroke-dasharray="12.53373292139361 502.6874622673324" stroke-dashoffset="-482.77"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#244776" stroke-width="40"
-      stroke-dasharray="9.811913527442485 505.40928166128356" stroke-dashoffset="-495.52"/>
+      stroke-dasharray="9.610355154591785 505.61084003413424" stroke-dashoffset="-495.91"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#000080" stroke-width="40"
-      stroke-dasharray="8.68471101727417 506.53648417145183" stroke-dashoffset="-505.94"/>
+      stroke-dasharray="8.504973523287278 506.71622166543875" stroke-dashoffset="-506.12"/>
   </g>
   <g>
       <rect x="250" y="23" width="13" height="13" rx="3" fill="#ec915c"/>
@@ -45,27 +45,27 @@
 <g>
       <rect x="250" y="49" width="13" height="13" rx="3" fill="#701516"/>
       <text x="272" y="60" class="name">Ruby</text>
-      <text x="460" y="60" class="pct" text-anchor="end">22.2%</text>
+      <text x="460" y="60" class="pct" text-anchor="end">21.8%</text>
     </g>
 <g>
       <rect x="250" y="75" width="13" height="13" rx="3" fill="#f1e05a"/>
       <text x="272" y="86" class="name">JavaScript</text>
-      <text x="460" y="86" class="pct" text-anchor="end">12.5%</text>
+      <text x="460" y="86" class="pct" text-anchor="end">12.3%</text>
     </g>
 <g>
       <rect x="250" y="101" width="13" height="13" rx="3" fill="#44a51c"/>
       <text x="272" y="112" class="name">QML</text>
-      <text x="460" y="112" class="pct" text-anchor="end">9.0%</text>
+      <text x="460" y="112" class="pct" text-anchor="end">9.9%</text>
     </g>
 <g>
       <rect x="250" y="127" width="13" height="13" rx="3" fill="#00ADD8"/>
       <text x="272" y="138" class="name">Go</text>
-      <text x="460" y="138" class="pct" text-anchor="end">4.6%</text>
+      <text x="460" y="138" class="pct" text-anchor="end">4.5%</text>
     </g>
 <g>
       <rect x="250" y="153" width="13" height="13" rx="3" fill="#3572A5"/>
       <text x="272" y="164" class="name">Python</text>
-      <text x="460" y="164" class="pct" text-anchor="end">2.6%</text>
+      <text x="460" y="164" class="pct" text-anchor="end">2.5%</text>
     </g>
 <g>
       <rect x="250" y="179" width="13" height="13" rx="3" fill="#244776"/>
