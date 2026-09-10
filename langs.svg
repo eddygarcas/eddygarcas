@@ -14,28 +14,28 @@
     <circle class="ring-bg" cx="130" cy="130" r="82" fill="none" stroke-width="40"/>
     <circle cx="130" cy="130" r="82" fill="none"
       stroke="#ec915c" stroke-width="40"
-      stroke-dasharray="223.47128042256986 291.74991476615617" stroke-dashoffset="0.00"/>
+      stroke-dasharray="223.26490965933522 291.9562855293908" stroke-dashoffset="0.00"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#701516" stroke-width="40"
-      stroke-dasharray="107.48981248845362 407.73138270027243" stroke-dashoffset="-224.07"/>
+      stroke-dasharray="107.39026123378562 407.8309339549404" stroke-dashoffset="-223.86"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#44a51c" stroke-width="40"
-      stroke-dasharray="64.29041605711943 450.9307791316066" stroke-dashoffset="-332.16"/>
+      stroke-dasharray="64.70517294350923 450.5160222452168" stroke-dashoffset="-331.86"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#f1e05a" stroke-width="40"
-      stroke-dasharray="62.52122759028547 452.69996759844054" stroke-dashoffset="-397.05"/>
+      stroke-dasharray="62.46309262586902 452.758102562857" stroke-dashoffset="-397.16"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#00ADD8" stroke-width="40"
-      stroke-dasharray="21.610109746456683 493.61108544226937" stroke-dashoffset="-460.17"/>
+      stroke-dasharray="21.589654124963122 493.6315410637629" stroke-dashoffset="-460.22"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#3572A5" stroke-width="40"
-      stroke-dasharray="13.66208845435751 501.5591067343685" stroke-dashoffset="-482.38"/>
+      stroke-dasharray="13.648952999987387 501.57224218873864" stroke-dashoffset="-482.41"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#244776" stroke-width="40"
-      stroke-dasharray="9.219673254974754 506.0015219337513" stroke-dashoffset="-496.64"/>
+      stroke-dasharray="9.210629287088633 506.0105659016374" stroke-dashoffset="-496.66"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#000080" stroke-width="40"
-      stroke-dasharray="8.156587174508713 507.0646080142173" stroke-dashoffset="-506.46"/>
+      stroke-dasharray="8.14852231418781 507.0726728745382" stroke-dashoffset="-506.47"/>
   </g>
   <g>
       <rect x="250" y="23" width="13" height="13" rx="3" fill="#ec915c"/>
@@ -50,12 +50,12 @@
 <g>
       <rect x="250" y="75" width="13" height="13" rx="3" fill="#44a51c"/>
       <text x="272" y="86" class="name">QML</text>
-      <text x="460" y="86" class="pct" text-anchor="end">12.6%</text>
+      <text x="460" y="86" class="pct" text-anchor="end">12.7%</text>
     </g>
 <g>
       <rect x="250" y="101" width="13" height="13" rx="3" fill="#f1e05a"/>
       <text x="272" y="112" class="name">JavaScript</text>
-      <text x="460" y="112" class="pct" text-anchor="end">12.3%</text>
+      <text x="460" y="112" class="pct" text-anchor="end">12.2%</text>
     </g>
 <g>
       <rect x="250" y="127" width="13" height="13" rx="3" fill="#00ADD8"/>
