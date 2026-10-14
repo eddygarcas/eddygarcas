@@ -14,28 +14,28 @@
     <circle class="ring-bg" cx="130" cy="130" r="82" fill="none" stroke-width="40"/>
     <circle cx="130" cy="130" r="82" fill="none"
       stroke="#ec915c" stroke-width="40"
-      stroke-dasharray="266.29140235905345 248.92979282967258" stroke-dashoffset="0.00"/>
+      stroke-dasharray="266.39498945935895 248.82620572936708" stroke-dashoffset="0.00"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#701516" stroke-width="40"
-      stroke-dasharray="81.07637102875582 434.1448241599702" stroke-dashoffset="-266.89"/>
+      stroke-dasharray="81.04230093856671 434.1788942501593" stroke-dashoffset="-266.99"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#f1e05a" stroke-width="40"
-      stroke-dasharray="62.72945512322886 452.4917400654972" stroke-dashoffset="-348.57"/>
+      stroke-dasharray="62.70303817766066 452.51815701106534" stroke-dashoffset="-348.64"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#44a51c" stroke-width="40"
-      stroke-dasharray="61.43018314155282 453.79101204717324" stroke-dashoffset="-411.90"/>
+      stroke-dasharray="61.404308168075666 453.81688702065037" stroke-dashoffset="-411.94"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#00ADD8" stroke-width="40"
-      stroke-dasharray="15.30814030220028 499.91305488652574" stroke-dashoffset="-473.93"/>
+      stroke-dasharray="15.30150445675306 499.919690731973" stroke-dashoffset="-473.94"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#3572A5" stroke-width="40"
-      stroke-dasharray="11.289207108729729 503.9319880799963" stroke-dashoffset="-489.84"/>
+      stroke-dasharray="11.284247701824535 503.9369474869015" stroke-dashoffset="-489.85"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#244776" stroke-width="40"
-      stroke-dasharray="6.433406932481445 508.7877882562446" stroke-dashoffset="-501.72"/>
+      stroke-dasharray="6.430473050802961 508.79072213792307" stroke-dashoffset="-501.73"/>
 <circle cx="130" cy="130" r="82" fill="none"
       stroke="#000080" stroke-width="40"
-      stroke-dasharray="5.863029192723622 509.3581659960024" stroke-dashoffset="-508.76"/>
+      stroke-dasharray="5.860333235683447 509.36086195304256" stroke-dashoffset="-508.76"/>
   </g>
   <g>
       <rect x="250" y="23" width="13" height="13" rx="3" fill="#ec915c"/>
@@ -45,7 +45,7 @@
 <g>
       <rect x="250" y="49" width="13" height="13" rx="3" fill="#701516"/>
       <text x="272" y="60" class="name">Ruby</text>
-      <text x="460" y="60" class="pct" text-anchor="end">15.9%</text>
+      <text x="460" y="60" class="pct" text-anchor="end">15.8%</text>
     </g>
 <g>
       <rect x="250" y="75" width="13" height="13" rx="3" fill="#f1e05a"/>
